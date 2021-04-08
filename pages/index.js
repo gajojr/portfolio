@@ -16,7 +16,7 @@ export default function Home() {
           Welcome to my portfolio
         </h1>
         <p className={styles.description}>
-          I am 17 year old web developer. Mostly working with mern stack, but also love to work with python and selenium automation. I also have interest in machine learning and blockchain, but don't have experience in those technologies. I am from Cacak, Serbia and currently I am 3. year in technical high school, IT major. My plans for the future are to go to Computer Science college and learn as much as possible while in school and college. I've learnt most of the stuff online via courses, tutorials, books and for everything that I learn I try to build some project or at least simulate use case of the technology that I've learnt.
+          I Andrija Gajic, am 17 year old web developer. Mostly working with mern stack, but also love to work with python and selenium automation. I also have interest in machine learning and blockchain, but don't have experience in those technologies. I am from Cacak, Serbia and currently I am 3. year in technical high school, IT major. My plans for the future are to go to Computer Science college and learn as much as possible while in school and college. I've learnt most of the stuff online via courses, tutorials, books and for everything that I learn I try to build some project or at least simulate use case of the technology that I've learnt.
         </p>
         <section className={styles.project}>
           <a href="https://gajo-chat-app.herokuapp.com/"><h1 className={styles.naslov}>Chat app</h1></a>
